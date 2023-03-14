@@ -1,0 +1,264 @@
+{
+  "profile": {
+    "id": 0,
+    "name": "Elivelton Jhoan Labra Lopez",
+    "shortName": "Jhoan Labra",
+    "slogan": "Egresado de computacion e informatica.",
+    "user": "jhoan219",
+    "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 💻Egresado💻",
+    "mainStack": "React, JS, CSS, HTML",
+    "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en especialización de Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
+    "urlPhoto": "https://i.postimg.cc/bvJLLgZd/perfil-elliotgaramendi.jpg",
+    "urlLinkedin": "https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/",
+    "urlCv": "https://1drv.ms/u/s!As5U-bd3F-a6gYsmbbG-Dybk88biRQ?e=Rifl4V"
+  },
+  "technologies": [
+    {
+      "id": 0,
+      "name": "HTML",
+      "image": "https://i.postimg.cc/7hKTbSvr/html-logo.png",
+      "main": 1
+    },
+    {
+      "id": 1,
+      "name": "CSS",
+      "image": "https://i.postimg.cc/wTBmZ4Jq/css-logo.png",
+      "main": 1
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "image": "https://i.postimg.cc/fTjM7Mkk/javascript-logo.png",
+      "main": 1
+    },
+    {
+      "id": 3,
+      "name": "React",
+      "image": "https://i.postimg.cc/0ykPchJn/react-logo.png",
+      "main": 1
+    }
+  ],
+  "experiences": [
+    {
+      "id": 0,
+      "company": "Artesania Milagros InkaMarket",
+      "position": "Atencion al Cliente",
+      "period": "mayo 2020, diciembre 2022",
+      "activities": [
+        "Atencion al publico nacional y turistas con dominio de ingles basico.",
+        "Encargado de caja"
+      ],
+      "main": 0
+    }
+  ],
+  "projects": [
+    {
+      "id": 0,
+      "title": "JK Studio",
+      "mainTechnology": "JavaScript",
+      "technologies": "HTML, CSS, JavaScript, Bootstrap",
+      "about": "Pagina sobre estudio fotografico de bodas",
+      "image": "https://i.postimg.cc/L5dkPJL2/crud-pokemons-js.png",
+      "urlDemo": "https://elliotxleo.github.io/crud-pokemons-js/",
+      "urlCode": "https://github.com/ElliotXLeo/crud-pokemons-js",
+      "main": 0
+    },
+    {
+      "id": 1,
+      "title": "Pokedex Api",
+      "mainTechnology": "JavaScript",
+      "technologies": "HTML, CSS, JavaScript, Bootstrap",
+      "about": "Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.",
+      "image": "https://elliotxleo.github.io/pokefetch-gallary-js/img/demo.png",
+      "urlDemo": "https://elliotxleo.github.io/pokefetch-gallary-js/",
+      "urlCode": "https://elliotxleo.github.io/pokefetch-gallary-js/",
+      "main": 0
+    },
+    {
+      "id": 2,
+      "title": "Gastronomia Peruana",
+      "mainTechnology": "JavaScript",
+      "technologies": "JavaScript, CSS, HTML",
+      "about": "Pagina sobre gastronomia peruana",
+      "image": "https://elliotxleo.github.io/control-presupuestario-js/img/demo.png",
+      "urlDemo": "https://elliotxleo.github.io/control-presupuestario-js/",
+      "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-js",
+      "main": 0
+    }  
+  ],
+  "skills": [
+    {
+      "id": 0,
+      "name": "React",
+      "core": "Frontend",
+      "percentage": 50,
+      "level": "Básico",
+      "main": 1
+    }, 
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "core": "Frontend",
+      "percentage": 80,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "core": "Frontend",
+      "percentage": 80,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 3,
+      "name": "HTML",
+      "core": "Frontend",
+      "percentage": 80,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 4,
+      "name": "Sass",
+      "core": "Frontend",
+      "percentage": 50,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 5,
+      "name": "Bootstrap",
+      "core": "Frontend",
+      "percentage": 60,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 6,
+      "name": "Node.js",
+      "core": "Backend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 7,
+      "name": "Express.js",
+      "core": "Backend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 8,
+      "name": "Java",
+      "core": "Backend",
+      "percentage": 50,
+      "level": "Intermedio",
+      "main": 0
+    },
+    {
+      "id": 9,
+      "name": "API",
+      "core": "Backend",
+      "percentage": 40,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 10,
+      "name": "REST",
+      "core": "Backend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 0
+    },
+    {
+      "id": 11,
+      "name": "MySQL",
+      "core": "Base de datos",
+      "percentage": 60,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 12,
+      "name": "Microsoft SQL Server",
+      "core": "Base de datos",
+      "percentage": 50,
+      "level": "Intermedio",
+      "main": 0
+    },
+    {
+      "id": 13,
+      "name": "Oracle DB",
+      "core": "Base de datos",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 0
+    },
+    {
+      "id": 14,
+      "name": "git",
+      "core": "Tecnologías",
+      "percentage": 60,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 15,
+      "name": "Scrum",
+      "core": "Complementario",
+      "percentage": 60,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 16,
+      "name": ".Net",
+      "core": "Backend",
+      "percentage": 60,
+      "level": "Básico",
+      "main": 1
+    }
+  ],
+  "contacts": [
+    {
+      "id": 0,
+      "name": "LinkedIn",
+      "urlContact": "https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/",
+      "urlImage": "https://i.postimg.cc/nrmDP44Z/linkedin-logo.png",
+      "main": 1
+    },
+    {
+      "id": 1,
+      "name": "Instagram",
+      "urlContact": "https://www.instagram.com/jhoanlabra19/",
+      "urlImage": "https://i.postimg.cc/5NGrvb0C/instagram-logo.png",
+      "main": 1
+    },
+    {
+      "id": 2,
+      "name": "Facebook",
+      "urlContact": "https://www.facebook.com/jhoan219",
+      "urlImage": "https://i.postimg.cc/cJVYMk3T/facebook-logo.png",
+      "main": 1
+    },
+    {
+      "id": 3,
+      "name": "GitHub",
+      "urlContact": "https://github.com/jhoan219",
+      "urlImage": "https://i.postimg.cc/T1cDxR4H/github-logo.png",
+      "main": 1
+    },
+    {
+      "id": 4,
+      "name": "Página Personal",
+      "urlContact": "https://nextjs-react-portafolio-fc.vercel.app",
+      "urlImage": "https://i.postimg.cc/dV5g1rCJ/portafolio-logo.png",
+      "main": 1
+    }
+  ]
+}
