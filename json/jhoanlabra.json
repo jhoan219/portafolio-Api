@@ -58,9 +58,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "HTML, CSS, JavaScript, Bootstrap",
       "about": "Pagina sobre estudio fotografico de bodas",
-      "image": "https://i.postimg.cc/L5dkPJL2/crud-pokemons-js.png",
-      "urlDemo": "https://elliotxleo.github.io/crud-pokemons-js/",
-      "urlCode": "https://github.com/ElliotXLeo/crud-pokemons-js",
+      "image": "https://i.postimg.cc/hPCWSsjP/captura-1.png",
+      "urlDemo": "https://proyecto-frontend-jk-studio.vercel.app/",
+      "urlCode": "https://github.com/jhoan219/ProyectoFronted-JKStudio",
       "main": 0
     },
     {
@@ -69,9 +69,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "HTML, CSS, JavaScript, Bootstrap",
       "about": "Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.",
-      "image": "https://elliotxleo.github.io/pokefetch-gallary-js/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/pokefetch-gallary-js/",
-      "urlCode": "https://elliotxleo.github.io/pokefetch-gallary-js/",
+      "image": "https://i.postimg.cc/R0HjLzTN/captura-3.png",
+      "urlDemo": "https://poquedex.vercel.app/",
+      "urlCode": "https://github.com/jhoan219/Poquedex",
       "main": 0
     },
     {
@@ -80,9 +80,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "JavaScript, CSS, HTML",
       "about": "Pagina sobre gastronomia peruana",
-      "image": "https://elliotxleo.github.io/control-presupuestario-js/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/control-presupuestario-js/",
-      "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-js",
+      "image": "https://i.postimg.cc/28jNRMCK/captura-2.png",
+      "urlDemo": "https://jhoan219.github.io/gastronomia-page/",
+      "urlCode": "https://github.com/jhoan219/gastronomia-page",
       "main": 0
     }  
   ],
