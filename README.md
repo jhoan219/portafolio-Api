@@ -1,6 +1,6 @@
-# [API JSON Public](https://elliotxleo.github.io/api-json-public/) | [<img src="https://i.postimg.cc/J7BLFtdc/linkedin.png" alt="LinkedIn" class="footer-nav__link-image" height="20px" />](https://www.linkedin.com/in/elliotgaramendi/)  | [<img src="https://i.postimg.cc/sfJtqS4W/instagram.png" alt="Instagram" class="footer-nav__link-image" height="20px" />](https://www.instagram.com/elliotgaramendi/)  | [<img src="https://i.postimg.cc/7YHyZXZX/facebook.png" alt="Facebook" class="footer-nav__link-image" height="20px" />](https://www.facebook.com/elliotgaramendi)  | [<img src="https://i.postimg.cc/5NBMxTJX/github.png" alt="GitHub" class="footer-nav__link-image" height="20px" />](https://github.com/ElliotXLeo)  | [<img src="https://i.postimg.cc/dtPYcvbM/youtube.png" alt="YouTube" class="footer-nav__link-image" height="20px" />](https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA)  | [<img src="https://i.postimg.cc/65TVxg9t/world-globe.png" alt="Página Personal" class="footer-nav__link-image" height="20px" />](https://elliotxleo.github.io/portafolio-web-elgs/)
+# [API JSON Public]  |  
 
-[![API JSON Public](https://i.postimg.cc/RV5CWcHc/api-json-public.png)](https://elliotxleo.github.io/api-json-public/)
+[![API JSON Public] 
 
 Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta con diferentes Endpoints que responden JSON's.
 
@@ -48,9 +48,7 @@ Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta 
   </table>
 
 ## 🤗 Redes Sociales 🤗
-- 🐭 LinkedIn: https://www.linkedin.com/in/elliotgaramendi/ 🐭
-- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
-- 🐭 Facebook: https://www.facebook.com/elliotgaramendi/ 🐭
-- 🐭 GitHub: https://github.com/ElliotXLeo/ 🐭
-- 🐭 YouTube: https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA/ 🐭
-- 🐭 Web Personal: https://elliotxleo.github.io/portafolio-web-elgs/ 🐭# portafolio-Api
+🐭 LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/🐭
+🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
+🐭 GitHub: https://github.com/jhoan219/ 🐭
+🐭 Web Personal: https://jhoan219.github.io/portafollio-dev/🐭
