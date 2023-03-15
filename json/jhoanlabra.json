@@ -7,10 +7,10 @@
     "user": "jhoan219",
     "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 💻Egresado💻",
     "mainStack": "React, JS, CSS, HTML",
-    "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
+    "description": "Desarrollador Web Frontend con la biblioteca React. Egresado en Computacion e Informatica. Apasionado del autoaprendizaje y del código limpio.",
     "urlPhoto": "https://i.postimg.cc/cCWdKkkk/dev.jpg",
     "urlLinkedin": "https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/",
-    "urlCv": "https://1drv.ms/u/s!As5U-bd3F-a6gYsmbbG-Dybk88biRQ?e=Rifl4V"
+    "urlCv": "https://drive.google.com/file/d/1WVIT_1ipSfNXEwNf2A4fpj9e5b4ESSTv/view?usp=sharing"
   },
   "technologies": [
     {
@@ -242,7 +242,7 @@
     {
       "id": 2,
       "name": "Facebook",
-      "urlContact": "https://www.facebook.com/jhoan219",
+      "urlContact": "https://www.facebook.com/jhoan.labralopez",
       "urlImage": "https://i.postimg.cc/cJVYMk3T/facebook-logo.png",
       "main": 1
     },
@@ -256,7 +256,7 @@
     {
       "id": 4,
       "name": "Página Personal",
-      "urlContact": "https://nextjs-react-portafolio-fc.vercel.app",
+      "urlContact": "https://jhoan219.github.io/portafollio-dev/",
       "urlImage": "https://i.postimg.cc/dV5g1rCJ/portafolio-logo.png",
       "main": 1
     }

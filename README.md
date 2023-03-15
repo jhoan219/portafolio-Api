@@ -1,6 +1,6 @@
 # [API JSON Public]  |  
 
-[![API JSON Public] 
+ [API JSON Public] 
 
 Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta con diferentes Endpoints que responden JSON's.
 
@@ -8,7 +8,6 @@ Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta 
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
   - git clone https://github.com/jhoan219/portafolio-Api.git
-  - cd api-json-public
   - Levantar la web en un servidor y disfrutar
 
 ## 👨‍💻 Tecnologías Usadas 👨‍💻
@@ -48,7 +47,13 @@ Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta 
   </table>
 
 ## 🤗 Redes Sociales 🤗
-🐭 LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/🐭
-🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
-🐭 GitHub: https://github.com/jhoan219/ 🐭
-🐭 Web Personal: https://jhoan219.github.io/portafollio-dev/🐭
+LinkedIn: https://www.linkedin.com/in/jhoan-labra-lopez-16587b214/
+
+GitHub: https://github.com/jhoan219
+
+WhatsApp: https://api.whatsapp.com/send?phone=51963428337
+
+Personal Web: https://jhoan219.github.io/portafollio-dev/
+
+Correo: labrajhoan219@gmail.com
+ 
